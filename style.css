@@ -43,6 +43,8 @@
 }
 .navbar {
     background-color: black;
+    color: white;
+    text-decoration: none;
 }
 .social-icons {
     font-size: 36px;
