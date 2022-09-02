@@ -41,7 +41,7 @@
 .servicesText:hover {
     border: 1px solid #008000;
 }
-.navbar .navbarDark {
+.navbar {
     background-color: black;
 }
 .social-icons {
